@@ -1,0 +1,6 @@
+streamlit
+transformers
+torch
+joblib
+numpy
+gradio
